@@ -1,0 +1,240 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DollarERP
+</name>
+</assembly>
+<members>
+<member name="M:DollarERP.frmVchAccountCheck.ControlScrollListener.#ctor">
+	<summary>
+ Constructor
+ </summary>
+</member><member name="M:DollarERP.frmVchAccountCheck.ControlScrollListener.#ctor(System.Windows.Forms.Control)">
+	<summary>
+ Constructor
+ </summary>
+	<param name="control">The control object</param>
+</member><member name="M:DollarERP.frmVchAccountCheck.ControlScrollListener.Dispose">
+	<summary>
+ Public implementation of Dispose pattern callable by consumers.
+ </summary>
+</member><member name="M:DollarERP.frmVchAccountCheck.ControlScrollListener.WndProc(System.Windows.Forms.Message@)">
+	<summary>
+ Invokes the default window procedure associated with this window
+ </summary>
+	<param name="m">A Message that is associated with the current Windows message.</param>
+	<remarks>This method is called when a window message is sent to the handle of the window</remarks>
+</member><member name="M:DollarERP.frmVchAccountCheck.ControlScrollListener.Dispose(System.Boolean)">
+	<summary>
+ Protected implementation of Dispose pattern.
+ </summary>
+	<param name="disposing">The boolean value for disposing object</param>
+</member><member name="M:DollarERP.frmVchAccountCheck.ControlScrollListener.HandleControlScroll(System.Windows.Forms.Message)">
+	<summary>
+ Handle control scroll
+ </summary>
+	<param name="m">A Message that is associated with the current Windows message.</param>
+</member><member name="M:DollarERP.frmGSTInfo.ControlScrollListener.#ctor">
+	<summary>
+ Constructor
+ </summary>
+</member><member name="M:DollarERP.frmGSTInfo.ControlScrollListener.#ctor(System.Windows.Forms.Control)">
+	<summary>
+ Constructor
+ </summary>
+	<param name="control">The control object</param>
+</member><member name="M:DollarERP.frmGSTInfo.ControlScrollListener.Dispose">
+	<summary>
+ Public implementation of Dispose pattern callable by consumers.
+ </summary>
+</member><member name="M:DollarERP.frmGSTInfo.ControlScrollListener.WndProc(System.Windows.Forms.Message@)">
+	<summary>
+ Invokes the default window procedure associated with this window
+ </summary>
+	<param name="m">A Message that is associated with the current Windows message.</param>
+	<remarks>This method is called when a window message is sent to the handle of the window</remarks>
+</member><member name="M:DollarERP.frmGSTInfo.ControlScrollListener.Dispose(System.Boolean)">
+	<summary>
+ Protected implementation of Dispose pattern.
+ </summary>
+	<param name="disposing">The boolean value for disposing object</param>
+</member><member name="M:DollarERP.frmGSTInfo.ControlScrollListener.HandleControlScroll(System.Windows.Forms.Message)">
+	<summary>
+ Handle control scroll
+ </summary>
+	<param name="m">A Message that is associated with the current Windows message.</param>
+</member><member name="M:DollarERP.frmMasterList.ControlScrollListener.#ctor">
+	<summary>
+ Constructor
+ </summary>
+</member><member name="M:DollarERP.frmMasterList.ControlScrollListener.#ctor(System.Windows.Forms.Control)">
+	<summary>
+ Constructor
+ </summary>
+	<param name="control">The control object</param>
+</member><member name="M:DollarERP.frmMasterList.ControlScrollListener.Dispose">
+	<summary>
+ Public implementation of Dispose pattern callable by consumers.
+ </summary>
+</member><member name="M:DollarERP.frmMasterList.ControlScrollListener.WndProc(System.Windows.Forms.Message@)">
+	<summary>
+ Invokes the default window procedure associated with this window
+ </summary>
+	<param name="m">A Message that is associated with the current Windows message.</param>
+	<remarks>This method is called when a window message is sent to the handle of the window</remarks>
+</member><member name="M:DollarERP.frmMasterList.ControlScrollListener.Dispose(System.Boolean)">
+	<summary>
+ Protected implementation of Dispose pattern.
+ </summary>
+	<param name="disposing">The boolean value for disposing object</param>
+</member><member name="M:DollarERP.frmMasterList.ControlScrollListener.HandleControlScroll(System.Windows.Forms.Message)">
+	<summary>
+ Handle control scroll
+ </summary>
+	<param name="m">A Message that is associated with the current Windows message.</param>
+</member><member name="P:DollarERP.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.Acc_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.AutoNo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.cry">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.Dollar4800">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.DollarFlashFile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.expand">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.Itm_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.mainfrompic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.mainfrompic1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.NoImage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.pdf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.Question">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.r1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.r11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.r12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.r13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.r2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.R55">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.smile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.vch1_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.Vch2_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.vch3_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DollarERP.My.Resources.Resources.Wall">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:DollarERP.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DollarERP.frmReportLst.ControlScrollListener.#ctor">
+	<summary>
+ Constructor
+ </summary>
+</member><member name="M:DollarERP.frmReportLst.ControlScrollListener.#ctor(System.Windows.Forms.Control)">
+	<summary>
+ Constructor
+ </summary>
+	<param name="control">The control object</param>
+</member><member name="M:DollarERP.frmReportLst.ControlScrollListener.Dispose">
+	<summary>
+ Public implementation of Dispose pattern callable by consumers.
+ </summary>
+</member><member name="M:DollarERP.frmReportLst.ControlScrollListener.WndProc(System.Windows.Forms.Message@)">
+	<summary>
+ Invokes the default window procedure associated with this window
+ </summary>
+	<param name="m">A Message that is associated with the current Windows message.</param>
+	<remarks>This method is called when a window message is sent to the handle of the window</remarks>
+</member><member name="M:DollarERP.frmReportLst.ControlScrollListener.Dispose(System.Boolean)">
+	<summary>
+ Protected implementation of Dispose pattern.
+ </summary>
+	<param name="disposing">The boolean value for disposing object</param>
+</member><member name="M:DollarERP.frmReportLst.ControlScrollListener.HandleControlScroll(System.Windows.Forms.Message)">
+	<summary>
+ Handle control scroll
+ </summary>
+	<param name="m">A Message that is associated with the current Windows message.</param>
+</member>
+</members>
+</doc>
